@@ -4,7 +4,7 @@
 #
 Name     : mvn-pgjdbc-parent-poms
 Version  : el1.0.3
-Release  : 1
+Release  : 2
 URL      : https://github.com/pgjdbc/pgjdbc-parent-poms/archive/REL1.0.3.tar.gz
 Source0  : https://github.com/pgjdbc/pgjdbc-parent-poms/archive/REL1.0.3.tar.gz
 Source1  : https://repo1.maven.org/maven2/org/postgresql/pgjdbc-core-parent/1.0.3/pgjdbc-core-parent-1.0.3.pom
